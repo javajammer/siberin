@@ -3,12 +3,68 @@
     <title>Primavera Siber Indonesia</title>
     <link href="https://www.siberin.my.id/feed.xml" rel="self" />
     <link href="https://www.siberin.my.id" />
-    <updated>2025-07-28T12:14:06+07:00</updated>
+    <updated>2025-07-28T12:27:29+07:00</updated>
     <author>
         <name>Franky Setiawan</name>
     </author>
     <id>https://www.siberin.my.id</id>
 
+    <entry>
+        <title>7 Langkah Praktis Membangun Ketahanan Ransomware</title>
+        <author>
+            <name>Franky Setiawan</name>
+        </author>
+        <link href="https://www.siberin.my.id/7-langkah-praktis-membangun-ketahanan-ransomware/"/>
+        <id>https://www.siberin.my.id/7-langkah-praktis-membangun-ketahanan-ransomware/</id>
+
+        <updated>2025-07-28T12:26:13+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Di tengah meningkatnya intensitas serangan siber, ransomware menjadi salah satu ancaman terbesar bagi kelangsungan bisnis. Serangan ini tidak hanya mengunci akses ke data penting, tetapi juga kerap disertai dengan ancaman kebocoran data untuk memaksa pembayaran tebusan lebih tinggi. Namun, ancaman ransomware bukanlah sesuatu yang tidak&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-start="243" data-end="526">Di tengah meningkatnya intensitas serangan siber, ransomware menjadi salah satu ancaman terbesar bagi kelangsungan bisnis. Serangan ini tidak hanya mengunci akses ke data penting, tetapi juga kerap disertai dengan ancaman kebocoran data untuk memaksa pembayaran tebusan lebih tinggi.</p>
+<p data-start="528" data-end="811">Namun, ancaman ransomware bukanlah sesuatu yang tidak bisa diantisipasi. Dengan strategi yang tepat, perusahaan Anda dapat membangun ketahanan yang kuat terhadap serangan ini. Berikut adalah 7 langkah praktis yang kami rekomendasikan untuk membangun pertahanan ransomware yang solid:</p>
+<hr data-start="813" data-end="816">
+<h3 data-start="818" data-end="869"><strong data-start="822" data-end="869">1. Evaluasi dan Petakan Risiko Aset Digital</strong></h3>
+<p data-start="871" data-end="1168">Langkah pertama yang paling mendasar adalah memahami di mana letak aset digital penting Anda berada. Petakan semua sistem kritis, data sensitif, serta proses bisnis utama. Lakukan risk assessment berkala untuk mengetahui sejauh mana potensi dampak jika ransomware menyerang sistem-sistem tersebut.</p>
+<blockquote data-start="1170" data-end="1264">
+<p data-start="1172" data-end="1264"><em data-start="1172" data-end="1264">Tools yang direkomendasikan: asset inventory management, risk register berbasis ISO 27001.</em></p>
+</blockquote>
+<hr data-start="1266" data-end="1269">
+<h3 data-start="1271" data-end="1326"><strong data-start="1275" data-end="1326">2. Lakukan Backup Secara Berkala dan Terisolasi</strong></h3>
+<p data-start="1328" data-end="1594">Backup saja tidak cukup jika tidak diuji dan tidak terlindung dari akses peretas. Terapkan kebijakan backup <strong data-start="1436" data-end="1445">3-2-1</strong> (tiga salinan data, dua media berbeda, satu lokasi terpisah/offline). Pastikan backup diuji secara rutin agar dapat diandalkan saat terjadi insiden.</p>
+<blockquote data-start="1596" data-end="1673">
+<p data-start="1598" data-end="1673"><em data-start="1598" data-end="1673">Gunakan backup terenkripsi dan sistem air-gapped untuk proteksi maksimal.</em></p>
+</blockquote>
+<hr data-start="1675" data-end="1678">
+<h3 data-start="1680" data-end="1735"><strong data-start="1684" data-end="1735">3. Perbarui dan Patch Semua Sistem Secara Rutin</strong></h3>
+<p data-start="1737" data-end="1998">Ransomware seringkali mengeksploitasi kerentanan perangkat lunak yang belum diperbarui. Otomatiskan proses patching pada OS, aplikasi, perangkat jaringan, serta endpoint lainnya. Kebijakan patch management wajib menjadi prioritas dalam program keamanan TI Anda.</p>
+<hr data-start="2000" data-end="2003">
+<h3 data-start="2005" data-end="2073"><strong data-start="2009" data-end="2073">4. Terapkan Kebijakan Akses Berbasis Prinsip Least Privilege</strong></h3>
+<p data-start="2075" data-end="2331">Batasi hak akses hanya untuk yang benar-benar membutuhkan. Dengan membatasi akses ke sistem dan data kritis, Anda mempersempit ruang gerak ransomware jika berhasil menyusup. Gunakan mekanisme role-based access control (RBAC) dan audit log untuk pemantauan.</p>
+<hr data-start="2333" data-end="2336">
+<h3 data-start="2338" data-end="2392"><strong data-start="2342" data-end="2392">5. Edukasi dan Latih Pengguna Secara Konsisten</strong></h3>
+<p data-start="2394" data-end="2652">Sebagian besar serangan ransomware bermula dari kesalahan pengguna—klik tautan phishing atau lampiran berbahaya. Oleh karena itu, pelatihan kesadaran keamanan harus dilakukan secara berkala. Simulasikan serangan phishing untuk melatih kesiapsiagaan karyawan.</p>
+<hr data-start="2654" data-end="2657">
+<h3 data-start="2659" data-end="2711"><strong data-start="2663" data-end="2711">6. Miliki Rencana Respons Insiden yang Jelas</strong></h3>
+<p data-start="2713" data-end="2956">Ketika serangan terjadi, setiap menit sangat berharga. Siapkan prosedur respons insiden ransomware, termasuk tahapan isolasi, analisis, komunikasi, dan pemulihan. Tim internal harus memahami siapa melakukan apa, kapan, dan bagaimana bertindak.</p>
+<blockquote data-start="2958" data-end="3042">
+<p data-start="2960" data-end="3042"><em data-start="2960" data-end="3042">Sertakan daftar kontak darurat, notifikasi hukum, dan rencana komunikasi publik.</em></p>
+</blockquote>
+<hr data-start="3044" data-end="3047">
+<h3 data-start="3049" data-end="3091"><strong data-start="3053" data-end="3091">7. Bangun Pemantauan Keamanan 24/7</strong></h3>
+<p data-start="3093" data-end="3324">Investasikan pada sistem pemantauan real-time seperti Security Operation Center (SOC) untuk mendeteksi aktivitas mencurigakan sedini mungkin. Dengan deteksi dini, Anda bisa mencegah ransomware menyebar luas dalam jaringan internal.</p>
+<hr data-start="3326" data-end="3329">
+<h2 data-start="3331" data-end="3345"><strong data-start="3334" data-end="3345">Penutup</strong></h2>
+<p data-start="3347" data-end="3506">Ransomware tidak memilih target berdasarkan besar kecilnya bisnis. Ia mencari celah, dan celah itu bisa datang dari sistem yang lemah atau tim yang tidak siap.</p>
+<p data-start="3508" data-end="3704">Dengan menerapkan ketujuh langkah di atas secara konsisten, perusahaan Anda bukan hanya membangun pertahanan terhadap serangan—tetapi juga membentuk budaya keamanan yang tangguh dan berkelanjutan.</p>
+<p data-start="3706" data-end="3893">🎯 <strong data-start="3709" data-end="3752">Ingin audit kesiapan ransomware gratis?</strong><br data-start="3752" data-end="3755">Hubungi tim kami di <strong data-start="3775" data-end="3807">PT Primavera Siber Indonesia</strong> untuk konsultasi awal tanpa biaya. Mari lindungi bisnis Anda sebelum serangan datang.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ransomware dan Security Posture: Cermin Ketahanan Keamanan Perusahaan Anda</title>
         <author>
@@ -231,6 +287,12 @@
 <p data-start="3816" data-end="4087">PT Primavera Siber Indonesia adalah mitra terpercaya dalam membangun sistem keamanan informasi dan sertifikasi ISO 27001. Kami telah membantu berbagai organisasi, dari skala startup hingga enterprise, mengamankan aset digital dan mencapai kepatuhan dengan standar global.</p>
 <hr data-start="4089" data-end="4092">
 <p data-start="4094" data-end="4248"><strong data-start="4094" data-end="4166">Jangan tunggu sampai insiden terjadi. Lindungi bisnis Anda hari ini.</strong><br data-start="4166" data-end="4169">Hubungi kami untuk memulai percakapan strategis seputar keamanan dan kepatuhan.</p>
+<p data-start="4127" data-end="4278">📩 <strong data-start="4130" data-end="4189">Hubungi kami untuk asesmen awal atau konsultasi gratis.</strong><br data-start="4189" data-end="4192">📘 <em data-start="4195" data-end="4216">Unduh panduan kami:</em> “<a href="https://www.siberin.my.id/🎯 Ransomware Readiness_ Membangun Ketahanan Siber Bisnis Anda.pdf" target="_blank" rel="noopener noreferrer">Ransomware Readiness: Membangun Ketahanan Siber Bisnis Anda</a>”</p>
+<hr data-start="4280" data-end="4283">
+<p data-start="4285" data-end="4349"><strong data-start="4285" data-end="4349">PT Primavera Siber Indonesia – Keamanan Anda, Komitmen Kami.</strong></p>
+<h3 data-start="4330" data-end="4349">📞 Hubungi Kami</h3>
+<p data-start="4351" data-end="4430"><strong data-start="4351" data-end="4383">PT Primavera Siber Indonesia</strong><br data-start="4383" data-end="4386"><em data-start="4386" data-end="4430">Konsultan Keamanan &amp; Sertifikasi ISO 27001</em></p>
+<p data-start="4432" data-end="4572">📧 Email: <a data-start="4442" data-end="4464" class="cursor-pointer" rel="noopener">info@primaverasiber.id</a><br data-start="4464" data-end="4467">🌐 Web: <a data-start="4475" data-end="4528" class="cursor-pointer" rel="noopener" target="_new">www.primaverasiber.id</a><br data-start="4528" data-end="4531">📞 Konsultasi Gratis: +62-817-1717-9080</p>
             ]]>
         </content>
     </entry>
