@@ -3,7 +3,7 @@
     <title>Primavera Siber Indonesia</title>
     <link href="https://www.siberin.my.id/feed.xml" rel="self" />
     <link href="https://www.siberin.my.id" />
-    <updated>2025-07-28T12:27:29+07:00</updated>
+    <updated>2025-07-28T12:28:57+07:00</updated>
     <author>
         <name>Franky Setiawan</name>
     </author>
@@ -41,7 +41,7 @@
 </blockquote>
 <hr data-start="1675" data-end="1678">
 <h3 data-start="1680" data-end="1735"><strong data-start="1684" data-end="1735">3. Perbarui dan Patch Semua Sistem Secara Rutin</strong></h3>
-<p data-start="1737" data-end="1998">Ransomware seringkali mengeksploitasi kerentanan perangkat lunak yang belum diperbarui. Otomatiskan proses patching pada OS, aplikasi, perangkat jaringan, serta endpoint lainnya. Kebijakan patch management wajib menjadi prioritas dalam program keamanan TI Anda.</p>
+<p data-start="1737" data-end="1998">Ransomware seringkali mengeksploitasi kerentanan perangkat lunak yang belum diperbarui. Otomatiskan proses patching pada Operating System, aplikasi, perangkat jaringan, serta endpoint lainnya. Kebijakan patch management wajib menjadi prioritas dalam program keamanan TI Anda.</p>
 <hr data-start="2000" data-end="2003">
 <h3 data-start="2005" data-end="2073"><strong data-start="2009" data-end="2073">4. Terapkan Kebijakan Akses Berbasis Prinsip Least Privilege</strong></h3>
 <p data-start="2075" data-end="2331">Batasi hak akses hanya untuk yang benar-benar membutuhkan. Dengan membatasi akses ke sistem dan data kritis, Anda mempersempit ruang gerak ransomware jika berhasil menyusup. Gunakan mekanisme role-based access control (RBAC) dan audit log untuk pemantauan.</p>
